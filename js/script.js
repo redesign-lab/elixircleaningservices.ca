@@ -9,5 +9,5 @@ if (toggle && nav) {
   });
   nav.addEventListener('click', event => { if (event.target.closest('a')) closeMenu(); });
   document.addEventListener('keydown', event => { if (event.key === 'Escape') { closeMenu(); toggle.focus(); } });
-  window.addEventListener('resize', () => { if (window.innerWidth >= 768) closeMenu(); });
+  window.addEventListener('resize', () => { if (window.innerWidth >= 960) closeMenu(); });
 }

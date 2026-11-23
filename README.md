@@ -8,7 +8,7 @@ A static, mobile-first homepage concept for [Elixir Cleaning Services](https://e
 - `css/style.css` — responsive styles
 - `js/script.js` — accessible mobile menu
 - `assets/images/` — original homepage photographs, stored locally
-- `assets/logo/` — original logo and a black-background-removed version for the dark header
+- `assets/logo/` — original logo and a background-removed version, rendered dark in the light header
 - `assets/fonts/` — self-hosted Manrope font files and license
 - `.nojekyll` — GitHub Pages compatibility
 
